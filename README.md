@@ -1,5 +1,5 @@
 # Ashirbad-Portfolio
- Hii, This is my personal portfolio website, briefly describes about me.
+ Hii, This is my personal portfolio website, which briefly describes about me.
  
 # Home Section
 
