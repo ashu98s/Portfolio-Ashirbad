@@ -12,5 +12,5 @@
 ### Service Section :
 ![Service Section](https://user-images.githubusercontent.com/36065206/94988996-ff339e80-058e-11eb-873d-82c8d03b604b.png)
 
-### Skills Section
+### Skills Section :
 ![Skill Section](https://user-images.githubusercontent.com/36065206/94988998-0064cb80-058f-11eb-8fdc-d83e7f4cb0f7.png)
