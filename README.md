@@ -2,7 +2,7 @@
 
  Hii, This is my personal portfolio website, which briefly describes about me.
  
-# Home Section
+### Home Section :
 
 ![Home Section](https://user-images.githubusercontent.com/36065206/94988990-fa6eea80-058e-11eb-9282-8cf7ba7603cc.png)
 
