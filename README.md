@@ -9,7 +9,7 @@
 ### About Section :
 ![About Section](https://user-images.githubusercontent.com/36065206/94988993-fd69db00-058e-11eb-86cb-34ee7ae79034.png)
 
-### Service Section 
+### Service Section :
 ![Service Section](https://user-images.githubusercontent.com/36065206/94988996-ff339e80-058e-11eb-873d-82c8d03b604b.png)
 
 ### Skills Section
