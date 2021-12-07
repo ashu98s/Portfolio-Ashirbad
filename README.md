@@ -1,6 +1,6 @@
 ### Ashirbad Swain-Portfolio :
 
- Hi the, This is my personal portfolio website, which briefly describes about me.
+ Hi ther, This is my personal portfolio website, which briefly describes about me.
  
 ### Home Section :
 
